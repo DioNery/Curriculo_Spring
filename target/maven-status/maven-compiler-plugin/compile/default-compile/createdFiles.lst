@@ -1,0 +1,5 @@
+com\example\curriculo\models\Curriculo.class
+com\example\curriculo\repositories\CurriculoRepository.class
+com\example\curriculo\services\CurriculoService.class
+com\example\curriculo\CurriculoApplication.class
+com\example\curriculo\controllers\CurriculoController.class
